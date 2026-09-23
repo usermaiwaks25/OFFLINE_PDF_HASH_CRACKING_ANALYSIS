@@ -12,11 +12,11 @@ This project documents a controlled cybersecurity lab focused on recovering pass
 | Field | Details |
 |---|---|
 | **Author** | Ibrahim Usman Maiwake |
-| **Role** | Cybersecurity Intern |
+| **Role** | Cyber security Intern |
 | **Program / Batch** | Networkwalks Internship / B083C |
 | **Instructor** | Waqas Karim CCIE |
-| **Date** | September 23, 2026 |
-| **Classification** | Internal / Training |
+| **Date** | September 24, 2026 |
+| **Classification** | Training |
 
 ## Objectives
 
